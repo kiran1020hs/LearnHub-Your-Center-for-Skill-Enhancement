@@ -54,7 +54,7 @@ Stripe / Razorpay (for payments - optional)
 bash
 Copy code
 # Clone the repo
-git clone https://github.com/yourusername/learnhub.git
+git clone https://github.com/kiran1020hs/LearnHub-Your-Center-for-Skill-Enhancement.git
 cd learnhub
 
 # Install backend dependencies
